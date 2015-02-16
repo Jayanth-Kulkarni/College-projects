@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1414816040 source:d:\jayanth\jayanth_c++ programs\stl\learning stl\main.cpp
+	<iostream>
+	<vector>
+	<cstring>
+	<cctype>
+	<cstdio>
+	<algorithm>
+	<fstream>
+	<stdlib.h>
+
