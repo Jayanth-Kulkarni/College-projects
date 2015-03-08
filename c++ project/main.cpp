@@ -1,3 +1,12 @@
+/****************************************************************************
+ Name        : Skip-lists-VS-Binary-search-Tree.c
+ Author      : Jayanth Prakash Kulkarni
+ Copyright   : Copyright Mr Jayanth Prakash Kulkarni © 2015
+ Description : Language used c++
+ ***************************************************************************/
+
+
+
 #include <iostream>
 #include <vector>
 #include <cstring>
